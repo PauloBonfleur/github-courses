@@ -1,11 +1,3 @@
-Curso Git
+Curso Git e Github.
 
-Mais um Teste.
-
-Atualizando.
-
-Segunda Atualização.
-
-Testando o git.
-
-Updating.
+Apenas Teste.
